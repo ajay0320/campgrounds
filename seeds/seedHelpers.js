@@ -1,0 +1,43 @@
+module.exports.descriptors = [
+    'Golden',
+    'Sacred',
+    'Royal',
+    'Historic',
+    'Blessed',
+    'Lively',
+    'Peaceful',
+    'Majestic',
+    'Spiritual',
+    'Green',
+    'Glorious',
+    'Sunny',
+    'Serene',
+    'Flourishing',
+    'Vibrant',
+    'Quiet',
+    'Dusty',
+    'Ancient'
+];
+
+module.exports.places = [
+    'Gurudwara',
+    'Mandir',
+    'Darbar',
+    'Chowk',
+    'Nagar',
+    'Mandi',
+    'Kila',
+    'Pind',
+    'Tilla',
+    'Baoli',
+    'Basti',
+    'Kothi',
+    'Sarovar',
+    'Court',
+    'Pathshala',
+    'Bagh',
+    'Dera',
+    'Samadhi',
+    'Mahal',
+    'Khana'
+];
