@@ -38,3 +38,21 @@ This project helped me practice working with RESTful routes, authentication, dat
    ```bash
    npx nodemon app.js
 5. Visit the app at http://localhost:3000
+
+   ## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Campgrounds List
+![Campgrounds List](screenshots/index.png)
+
+### Campground Details
+![Campground Show Page](screenshots/show.png)
+
+### Create New Campground
+![Create Campground](screenshots/create.png)
+
+### User Login
+![Login Page](screenshots/login.png)
+
