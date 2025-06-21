@@ -28,6 +28,13 @@ This project helped me practice working with RESTful routes, authentication, dat
    git clone https://github.com/your-username/campgrounds.git
    cd campgrounds
 2. Install all Dependencies:
+   ```bash
     npm install
-3. run :
+3. Set up your environment variables in a .env file:
+   ```bash
+   DATABASE_URL=mongodb://localhost:27017/campgrounds
+   SECRET=yourSecretKey
+4. run :
+   ```bash
    npx nodemon app.js
+5. Visit the app at http://localhost:3000
