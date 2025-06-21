@@ -29,4 +29,5 @@ This project helped me practice working with RESTful routes, authentication, dat
    cd campgrounds
 2. Install all Dependencies:
     npm install
-   
+3. run :
+   npx nodemon app.js
