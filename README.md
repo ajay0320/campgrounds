@@ -25,7 +25,7 @@ This project helped me practice working with RESTful routes, authentication, dat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/campgrounds.git
+   https://github.com/ajay0320/campgrounds.git
    cd campgrounds
 2. Install all Dependencies:
    ```bash
